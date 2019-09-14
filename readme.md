@@ -11,7 +11,7 @@
 * Import this [bumi.sql](database/bumi.sql) to your Database
 * Move this file to htdocs inside xampp folder
   ```diff
-  ! if you use local XAMPP
+  ! if you're use local XAMPP
   ```
 * Run [index.php](web/index.php) on your browser
 
