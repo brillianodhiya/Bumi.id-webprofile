@@ -13,6 +13,11 @@
 * Add article
 * About page
 
+## Used Framework
+
+* [Bootstrap](https://getbootstrap.com/)
+* [Jquery](https://jquery.com/)
+
 ## To run this project locally
 
 * Clone this repo
