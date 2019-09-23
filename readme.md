@@ -5,6 +5,14 @@
 > This web created by using PHP and MySQL
 > This is my project when I was an intern at [PT. Delta Sinergi Prima](https://delta.id/)
 
+## Features
+
+* Circle Slider
+* Gellery
+* Read Article
+* Add article
+* About page
+
 ## To run this project locally
 
 * Clone this repo
